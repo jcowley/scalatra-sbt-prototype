@@ -5,6 +5,7 @@
 2. (If using Eclipse) In sbt use the command eclipse to create Eclipse project files:
 
 	> eclipse
+
 3. Run Jetty
 
         container:start
