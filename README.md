@@ -2,12 +2,15 @@
 
         ./sbt
 
-2. Run Jetty
+2. (If using Eclipse) In sbt use the command eclipse to create Eclipse project files:
+
+	> eclipse
+3. Run Jetty
 
         container:start
 
-3. Go to http://localhost:8080/.
+4. Go to http://localhost:8080/.
 
-4. Learn more at http://www.scalatra.org/stable/book.
+5. Learn more at http://www.scalatra.org/stable/book.
 
-5. Happy hacking!
+6. Happy hacking!
